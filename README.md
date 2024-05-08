@@ -59,6 +59,16 @@ For OYO:
 
 OYO Rooms stands as a beacon of hospitality, offering a diverse array of accommodations tailored to meet the diverse needs and preferences of travellers. Whether you seek luxury, affordability, or something in between, OYO has something for everyone, ensuring memorable stays and delightful experiences. 
 
+**Dashboards**:
+
+![OYO 1](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/fb791ace-9fcb-479b-a2ce-a634303847f0)
+
+![OYO 2](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/e237d5dc-210a-4f27-9a3d-9dbb3e34fe49)
+
+![OYO 3](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/ab35f060-b0fa-4b76-b048-c34fec196920)
+
+![OYO 4](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/6b0a1ade-87b2-4fc6-9fd4-467a0d2979fc)
+
 
 **Machine Learning Outcomes**:
 
