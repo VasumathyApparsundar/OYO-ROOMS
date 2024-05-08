@@ -49,6 +49,7 @@ For Customers:
 
 •	For travellers seeking luxury and upscale amenities, Palette hotels offer an unparalleled experience. Madhogarh in Jaipur is a top recommendation.
 •	Budget-conscious travellers can opt for SPOT ON hotels like Sunshine Hotel for affordable yet comfortable stays.
+
 For OYO:
 
 •	OYO should continue to expand its flagship category, which enjoys popularity across all cities, ensuring consistent quality and affordability.
