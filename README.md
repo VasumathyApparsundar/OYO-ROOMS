@@ -58,3 +58,23 @@ For OYO:
 **Conclusion**:
 
 OYO Rooms stands as a beacon of hospitality, offering a diverse array of accommodations tailored to meet the diverse needs and preferences of travellers. Whether you seek luxury, affordability, or something in between, OYO has something for everyone, ensuring memorable stays and delightful experiences. 
+
+
+**Machine Learning Outcomes**:
+
+After applying various machine learning algorithms to the OYO Rooms dataset, including Linear Regression, Decision Tree, Random Forest, and XGBoost, we obtained the following results:
+
+Linear Regression:
+
+R-squared value: 0.86
+This indicates that our linear regression model explains approximately 86% of the variance in the discounted prices of OYO hotel rooms. With such a high R-squared value, linear regression appears to be the best-suited model for predicting discounted prices in this dataset.
+
+Decision Tree, Random Forest, and XGBoost:
+
+While the R-squared value for linear regression was 0.86, the performance of other algorithms such as Decision Tree, Random Forest, and XGBoost may vary.
+Further analysis and fine-tuning may be required to optimize these algorithms and improve their predictive accuracy.
+
+Overall, the linear regression model demonstrates strong predictive power in estimating the discounted prices of OYO hotel rooms based on the available features in the dataset.
+
+![image](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/5f33ee8d-135e-4d43-8913-3065cc9728eb)
+
