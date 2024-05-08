@@ -29,17 +29,26 @@ Using a dataset scraped from the OYO website, the goal is to predict the discoun
 **Insights**:
 
 Overview:
+
 •	The dataset comprises 1960 hotel rooms.
 •	The average original price is ₹3889, while the average discounted price is ₹917.
+
 City Insights:
+
 •	Hyderabad boasts the highest count of hotels, followed by Delhi and Bangalore.
 •	Delhi leads in the number of flagship category hotels, with 107 out of 281 total hotels.
+
 Hotel Categories:
+
 •	The flagship category dominates, with 501 hotels, followed by others with 455 and collection with 352.
 •	Among the hotel categories, 'very good' is the most common rating summary, received by 665 hotels.
+
 Region-wise Analysis:
+
 •	Jaipur's Raja Park hosts the only Palette hotel, offering premium amenities and services.
+
 Price Analysis:
+
 •	Palette - Madhogarh commands the highest price, ₹4567 + ₹588 tax, reflecting its premium status.
 •	On the other hand, SPOT ON Sunshine Hotel in Jaipur's Govind Nagar offers the lowest price, ₹399 + ₹78 tax, catering to budget-conscious travellers.
 
