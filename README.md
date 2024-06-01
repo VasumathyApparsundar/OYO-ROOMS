@@ -97,3 +97,21 @@ Overall, the linear regression model demonstrates strong predictive power in est
 
 ![image](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/5f33ee8d-135e-4d43-8913-3065cc9728eb)
 
+**Overview of Streamlit App for OYO Room Price Prediction:**
+
+This Streamlit app provides a user-friendly interface to predict OYO room prices based on various factors, enhancing accessibility and usability for your project.
+
+Purpose: The Streamlit app predicts the discounted price of OYO rooms based on user input.
+
+Inputs: Users can input the area, user rating, total ratings, region, rating summary, and hotel category.
+
+Processing: The app preprocesses user inputs, converts categorical data into numerical format, and scales the input data using a StandardScaler.
+
+Prediction: Using a pre-trained Linear Regression model, the app predicts the discounted price of the OYO room.
+
+Output: The app displays the predicted price to the user.
+
+![image](https://github.com/VasumathyApparsundar/OYO-ROOMS/assets/167323908/16f05fc6-6830-4cca-a585-4f87022127d9)
+
+
+
